@@ -1,0 +1,8 @@
+{
+"name":"BOT SERVER",
+"version":"1.0.0",
+"main":"node.js",
+"dependencies":{
+"mineflayer":"^4.9.0"
+}
+}
